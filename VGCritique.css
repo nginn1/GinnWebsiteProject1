@@ -52,6 +52,8 @@ body p { padding-left: 1em;
 			
   body dl { padding-left: 1em;
 			padding-right: 1em; }
+			
+  body form { padding-left: 2em; }
 		  
   h2 { color: black; }
   
