@@ -95,6 +95,9 @@ body p { padding-left: 1em;
 		   width: 100%;
 		   border-bottom: 1px;
 		   border-bottom-style: solid; }
+  table, th, td {
+				border: 1px solid black;
+  }
 
   footer { background-color: #1199ff;
            font-size: small;
